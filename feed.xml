@@ -5,5 +5,17 @@
     <link>https://wkze.com/covered-in-dead-archive/</link>
     <description>Auto-generated WKZE podcast feed</description>
     
+    <item>
+      <title>TR20260615-190003.mp3</title>
+      <enclosure url="https://wkze.com/wp-content/uploads/2026/06/TR20260615-190003.mp3" type="audio/mpeg" />
+      <guid>TR20260615-190003.mp3</guid>
+    </item>
+    
+    <item>
+      <title>TR20260615-200003.mp3</title>
+      <enclosure url="https://wkze.com/wp-content/uploads/2026/06/TR20260615-200003.mp3" type="audio/mpeg" />
+      <guid>TR20260615-200003.mp3</guid>
+    </item>
+    
   </channel>
 </rss>
