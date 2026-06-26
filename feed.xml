@@ -3,8 +3,7 @@
   <channel>
     <title>Covered in Dead (WKZE Archive)</title>
     <link>https://wkze.com/covered-in-dead-archive/</link>
-    <description>Auto-generated podcast feed from WKZE archive</description>
-
-    <!-- Episodes will be inserted automatically by GitHub Actions -->
+    <description>Auto-generated WKZE podcast feed</description>
+    
   </channel>
 </rss>
