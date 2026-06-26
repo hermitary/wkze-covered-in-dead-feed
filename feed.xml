@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Covered in Dead (WKZE Archive)</title>
+    <link>https://wkze.com/covered-in-dead-archive/</link>
+    <description>Auto-generated podcast feed from WKZE archive</description>
+
+    <!-- Episodes will be inserted automatically by GitHub Actions -->
+  </channel>
+</rss>
