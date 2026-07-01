@@ -17,5 +17,17 @@
       <guid>TR20260615-200003.mp3</guid>
     </item>
     
+    <item>
+      <title>TR20260629-190002.mp3</title>
+      <enclosure url="https://wkze.com/wp-content/uploads/2026/07/TR20260629-190002.mp3" type="audio/mpeg" />
+      <guid>TR20260629-190002.mp3</guid>
+    </item>
+    
+    <item>
+      <title>TR20260629-200002.mp3</title>
+      <enclosure url="https://wkze.com/wp-content/uploads/2026/07/TR20260629-200002.mp3" type="audio/mpeg" />
+      <guid>TR20260629-200002.mp3</guid>
+    </item>
+    
   </channel>
 </rss>
